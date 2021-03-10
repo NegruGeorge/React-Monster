@@ -6,5 +6,5 @@
 
 
 
-![alt text](https://github.com/NegruGeorge/React-Monster/PhotoMonster/Capture.PNG)
-![alt text](https://github.com/NegruGeorge/React-Monster/PhotoMonster/search.PNG)
+![alt text](https://github.com/NegruGeorge/React-Monster/tree/master/PhotoMonster/Capture.PNG)
+![alt text](https://github.com/NegruGeorge/React-Monster/tree/master/PhotoMonster/search.PNG)
